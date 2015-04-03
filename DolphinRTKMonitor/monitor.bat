@@ -1,0 +1,1 @@
+java -classpath $CLASSPATH;"E:\dolphinMonitor\mail.jar;" RTKChecker "E:\Inetpub\wwwroot\DolphinRTK\Sheets\DEGUSSA"
